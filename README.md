@@ -1,4 +1,4 @@
-I'm Karan, an aspiring software developer and student currently pursuing my Honours Bachelor of Computer Science at Sheridan College. I'm passionate about tech, data, and the power of collaboration, and I'm excited to share my journey with you!
+Hi, I'm Karan, an aspiring software developer and student currently pursuing my Honours Bachelor of Computer Science at Sheridan College. I'm passionate about tech, data, and the power of collaboration, and I'm excited to share my journey with you!
 
 📚 About Me
 💻 Student at Sheridan College: Currently enrolled in the Honours Bachelor of Computer Science program.
