@@ -6,7 +6,6 @@ Hi, I'm Karan, an aspiring software developer and student currently pursuing my 
 🛠️ Tech Stack:
 Proficient in Python, Google Sheets, and exploring Xcode for mobile development.
 Learning and adapting to Apple’s M-series Silicon MacBooks, focusing on mobile development.
-📖 Book Writing: Author of "A Thousand Kilometres of Friendship" written in a mix of Hinglish and English.
 🎯 Career Interests: Seeking opportunities in data entry, beginner-level data jobs.
 🔍 Currently Exploring: IP Addressing, Networking, and brushing up on my data-related skills for job readiness.
 
