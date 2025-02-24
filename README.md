@@ -1,7 +1,3 @@
-Here's your updated bio with detailed project information:  
-
----
-
 # Hi, I'm Karan! 👋  
 
 I'm an aspiring software developer and student currently pursuing my **Honours Bachelor of Computer Science** at **Sheridan College**. Passionate about **tech, data, and collaboration**, I'm always eager to learn and explore new technologies.  
