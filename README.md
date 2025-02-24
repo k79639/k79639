@@ -6,7 +6,7 @@ I'm an aspiring software developer and student currently pursuing my **Honours B
 - 💻 **Student at Sheridan College**: Enrolled in the **Honours Bachelor of Computer Science (Mobile Computing)** program.  
 - 🎓 **Learning**: Generative AI, Large Language Models, and advanced programming concepts.  
 - 🛠️ **Tech Stack**:  
-  - **Proficient in**: Python, Google Sheets  
+  - **Proficient in**: Python, Swift
   - **Exploring**: Xcode, .NET MAUI, Swift for mobile development  
   - **Adapting to**: Apple’s M-series MacBooks for development  
 - 🔍 **Currently Exploring**: Swift, C#, .NET MAUI, and SQL for software development.  
