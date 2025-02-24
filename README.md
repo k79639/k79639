@@ -1,3 +1,7 @@
+Here's your updated bio with detailed project information:  
+
+---
+
 # Hi, I'm Karan! 👋  
 
 I'm an aspiring software developer and student currently pursuing my **Honours Bachelor of Computer Science** at **Sheridan College**. Passionate about **tech, data, and collaboration**, I'm always eager to learn and explore new technologies.  
@@ -23,7 +27,13 @@ I'm an aspiring software developer and student currently pursuing my **Honours B
 - **Google Sheets & Advanced Google Sheets** – Google Cloud Skills Boost  
 
 ## 🔧 Recent Project  
-- **AppleScript Automation for Microsoft Teams**: Created a script to automate status updates and meeting controls in Microsoft Teams. Planning to make it available on **GitHub** with a detailed setup guide.  
+### **AppleScript Automation for Microsoft Teams**  
+This project automates certain tasks in Microsoft Teams to improve efficiency. It includes two AppleScripts:  
+
+1. **Setup Meeting Automation** – Automates the process of sharing the screen and starting a Teams meeting recording without manual clicks. Simply create or join a meeting, and the script will handle the rest.  
+2. **Teams Break Automation** – Simulates a break system in Teams. It stops the recording and screen share when executed. After a set break duration (default: 15 seconds), it automatically reopens the meeting window, starts the recording, and re-enables screen sharing. This script uses **cliclick** to automate button clicks.  
+
+📌 **Available on GitHub:** [GitHub Repository](https://github.com/k79639/Teams-Automation-Scripts.git)
 
 ## 🛠️ Skills  
 - **Programming Languages**: Python, C#, Swift, SQL  
@@ -35,8 +45,3 @@ I'm an aspiring software developer and student currently pursuing my **Honours B
 ## 📫 How to Reach Me  
 - **LinkedIn**: [k79639](https://www.linkedin.com/in/k79639)  
 - **Email**: k79639@gmail.com  
-
-<!---
-k79639/k79639 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
