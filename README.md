@@ -8,7 +8,6 @@ I'm an aspiring software developer and student currently pursuing my **Honours B
 - 🛠️ **Tech Stack**:  
   - **Proficient in**: Python, Swift
   - **Exploring**: Xcode, .NET MAUI, Swift for mobile development  
-  - **Adapting to**: Apple’s M-series MacBooks for development  
 - 🔍 **Currently Exploring**: Swift, C#, .NET MAUI, and SQL for software development.  
 
 ## 🌱 Currently Learning  
