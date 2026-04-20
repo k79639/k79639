@@ -1,42 +1,62 @@
-# Hi, I'm Karan! 👋  
+# Hi, I'm Karan 👋
 
-I'm an aspiring software developer and student currently pursuing my **Honours Bachelor of Computer Science** at **Sheridan College**. Passionate about **tech, data, and collaboration**, I'm always eager to learn and explore new technologies.  
+I am a software developer and Honours Bachelor of Computer Science (Mobile Computing) student at Sheridan College. I build mobile, web, and full-stack applications with a strong focus on clean UX and practical impact.
 
-## 📚 About Me  
-- 💻 **Student at Sheridan College**: Enrolled in the **Honours Bachelor of Computer Science (Mobile Computing)** program.  
-- 🎓 **Learning**: Generative AI, Large Language Models, and advanced programming concepts.  
-- 🛠️ **Tech Stack**:  
-  - **Proficient in**: Python, Swift
-  - **Exploring**: Xcode, .NET MAUI, Swift for mobile development  
-- 🔍 **Currently Exploring**: Swift, C#, .NET MAUI, and SQL for software development.  
+## About Me
+- Sheridan College, Honours Bachelor of Computer Science (Mobile Computing), 2024-Present
+- Executive team member at SPARTA, supporting student tech initiatives and website projects
 
-## 🌱 Currently Learning  
-- **Swift**: Exploring Apple's programming language for app development.  
-- **C#**: Strengthening my skills in object-oriented programming.  
-- **.NET MAUI**: Understanding cross-platform app development.  
-- **SQL**: Learning database management and querying.  
+## Technical Skills
+- Languages: Python, JavaScript, C, C++, C#, Java, Kotlin, Swift, SQL
+- Frontend: React, React Native, Flutter, HTML, CSS, Tailwind CSS
+- Platforms and Frameworks: .NET MAUI, Spring Boot, Chrome Extensions
+- Databases: SQL, Oracle, Supabase
+- Tools: Git, GitHub, Linux, Bash, Raspberry Pi
+- Core Concepts: Data Structures, Operating Systems, Networking, Cybersecurity
 
-## 🎓 Certifications  
-- **Introduction to Generative AI** – Google Cloud Skills Boost  
-- **Introduction to Large Language Models** – Google Cloud Skills Boost  
-- **Google Sheets & Advanced Google Sheets** – Google Cloud Skills Boost  
+## Featured Projects
+### WordPeek - Chrome Extension
+- Engineered a Chrome extension to parse live subtitles on streaming platforms
+- Built an event-driven overlay for instant word and phrase lookup
+- Implemented local persistence for user history with zero backend dependency
+- Improved accessibility and usability with keyboard-first interactions and adaptive theming
 
-## 🔧 Recent Project  
-### **AppleScript Automation for Microsoft Teams**  
-This project automates certain tasks in Microsoft Teams to improve efficiency. It includes two AppleScripts:  
+### StoreSync - Retail Management System (.NET MAUI)
+- Built a full-stack retail management app for product, employee, and store workflows
+- Added barcode scanning, admin dashboard, and receipt functionality
+- Developed multiple production-ready UI pages and business logic modules
 
-1. **Setup Meeting Automation** – Automates the process of sharing the screen and starting a Teams meeting recording without manual clicks. Simply create or join a meeting, and the script will handle the rest.  
-2. **Teams Break Automation** – Simulates a break system in Teams. It stops the recording and screen share when executed. After a set break duration (default: 15 seconds), it automatically reopens the meeting window, starts the recording, and re-enables screen sharing. This script uses **cliclick** to automate button clicks.  
+### SPARTA Club Website
+- Contributed to development and maintenance of the club website
+- Collaborated with student teams on UI and deployment updates
 
-📌 **Available on GitHub:** [GitHub Repository](https://github.com/k79639/Teams-Automation-Scripts.git)
+### Tilly - Cash Till Counter App
+- Created a responsive web app for counting Canadian currency
+- Added real-time calculations and PDF report generation
+- Improved retail workflow speed and accuracy
 
-## 🛠️ Skills  
-- **Programming Languages**: Python, C#, Swift, SQL  
-- **Networking & OS**: Computer Networking, Operating Systems, Linux  
-- **Mobile Development**: .NET MAUI, Xcode, Swift  
-- **Data Handling**: JSON, CSV, SQL, Google Sheets  
-- **Problem-Solving**: Creative Problem Solving, Database Design, Linear Algebra  
+### Microsoft Teams Automation Scripts
+- Automated Teams recording and screen-sharing tasks using AppleScript
+- Reduced repetitive manual setup steps for meetings
+- Integrated UI automation tooling for reliable execution
 
-## 📫 How to Reach Me  
-- **LinkedIn**: [k79639](https://www.linkedin.com/in/k79639)  
-- **Email**: k79639@gmail.com  
+### MarkView - Markdown Editor
+- Built a real-time markdown editor with live preview and auto-save
+- Implemented smart list handling and multiple UI themes
+- Designed a responsive interface with Tailwind CSS
+
+## Certifications and Training
+- Introduction to Generative AI - Google Cloud
+- Introduction to Large Language Models - Google Cloud
+- Google Sheets and Advanced Google Sheets - Google Cloud
+
+## Coursework
+- Data Structures and Algorithms
+- Mobile App Development (Swift, Kotlin)
+- Web Development (React, Spring Boot)
+- Operating Systems and Networking
+- Cybersecurity and Cryptography
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/k79639
+- Email: k79639@gmail.com
